@@ -1,4 +1,7 @@
-### Hi there 👋 I'm currently learning Data Science
+### Hi there 👋 
+
+- I'm currently learning Python, Data science.
+- How to reach me : chickenugget0218@gmail.com
 
 [![Chickenuget's GitHub stats](https://github-readme-stats.vercel.app/api?username=chickenugget0218&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
