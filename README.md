@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm currently learning Data Science
 
 [![Chickenuget's GitHub stats](https://github-readme-stats.vercel.app/api?username=chickenugget0218&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chickenugget0218&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **chickenugget0218/chickenugget0218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
