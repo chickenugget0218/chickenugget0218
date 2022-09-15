@@ -6,6 +6,7 @@
 <h3>Status</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chickenugget0218&theme=onedark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) 
+
 [![Chickenuget's GitHub stats](https://github-readme-stats.vercel.app/api?username=chickenugget0218&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>🛠️ Tech Stacks</h3>
