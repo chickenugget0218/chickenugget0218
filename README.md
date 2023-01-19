@@ -7,7 +7,7 @@
 
 [![Chickenuget's GitHub stats](https://github-readme-stats.vercel.app/api?username=chickenugget0218&show_icons=true&theme=onedark)]([https://github.com/chickenugget0218/chickenugget0218])[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chickenugget0218&layout=compact&theme=onedark)]([https://github.com/chickenugget0218/chickenugget0218])
 
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tofuchu)](https://solved.ac/tofuchu/)
 
 <h3>🛠️ Tech Stacks</h3>
 <div align="center">
