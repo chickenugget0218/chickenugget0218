@@ -1,13 +1,13 @@
 ### Hi there 👋 
 
-- 🌱 I’m currently learning Python, Data Science.
+- 🌱 I’m currently learning Java, Data Science.
 
 
 <h3>Status</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chickenugget0218&theme=onedark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) 
+[![Chickenuget's GitHub stats](https://github-readme-stats.vercel.app/api?username=chickenugget0218&show_icons=true&theme=onedark)]([https://github.com/chickenugget0218/chickenugget0218])[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chickenugget0218&layout=compact&theme=onedark)]([https://github.com/chickenugget0218/chickenugget0218])
 
-[![Chickenuget's GitHub stats](https://github-readme-stats.vercel.app/api?username=chickenugget0218&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h3>🛠️ Tech Stacks</h3>
 <div align="center">
@@ -23,10 +23,10 @@
 </div>
 <br/>
 
-
+<!--
 <h3>📫 Contacts</h3>
 
-<!--
+
 **chickenugget0218/chickenugget0218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
