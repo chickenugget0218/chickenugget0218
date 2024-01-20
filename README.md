@@ -6,6 +6,17 @@
 
 </br>
 
+## Project
+  <a href="https://github.com/chickenugget0218/abandoned_dog">abandoned_dog</a>: 제주도 들개 모니터링 시스템</br>
+  <a href="https://github.com/chickenugget0218/NIA_Post">NIA_Post</a>: 금융취약지 특성 및 금융소외 해소방안 마련</br>
+  <a href="https://github.com/chickenugget0218/bank_project">bank_project</a>: 시중은행vs상호금융 영업점 파악 EDA</br>
+  <a href="https://github.com/chickenugget0218/drama2020">drama2020</a>: 회차별 드라마 기록 앱 "나드리"</br>
+</br>
+
+## Study
+
+
+
 ## Certificate
 - ADSP(2023)
 - SQLD(2022)
