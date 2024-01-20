@@ -1,6 +1,19 @@
 ### Hi there 👋 
 
-- 🌱 I’m currently learning Java, Data Science.
+- 🌱 I’m currently learning Cloud, Data Science.
+- Major `IT Engineering`, `Business Administration` at Sookmyung Women's University
+
+
+</br>
+
+## Certificate
+- ADSP(2023)
+- SQLD(2022)
+- AWS SAA - Ssolution Architect Associate (2022)
+
+
+
+
 
 
 <h3>Status</h3>
