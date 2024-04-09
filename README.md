@@ -11,7 +11,7 @@
  > - <a href="https://github.com/chickenugget0218/NIA_Post">NIA_Post</a>: 금융취약지 특성 및 금융소외 해소방안 마련</br>
  > - <a href="https://github.com/chickenugget0218/bank_project">bank_project</a>: 시중은행vs상호금융 영업점 파악 EDA</br>
  > - <a href="https://github.com/chickenugget0218/drama2020">drama2020</a>: 회차별 드라마 기록 앱 "나드리"</br>
- > - <a href=" https://github.com/chickenugget0218/RFM_cohort_dacon">RFM_cohort_dacon</a>: 데이콘 - 이커머스 고객 세분화 분석 아이디어 경진대회-RFM분석과 코호트 분석에 따른 고객 유형별 비즈니스 전략</br>
+ > - <a href="https://github.com/chickenugget0218/RFM_cohort_dacon">RFM_cohort_dacon</a>: 데이콘 - 이커머스 고객 세분화 분석 아이디어 경진대회-RFM분석과 코호트 분석에 따른 고객 유형별 비즈니스 전략</br>
 
 
 </br>
